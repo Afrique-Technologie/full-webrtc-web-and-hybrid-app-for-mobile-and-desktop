@@ -13,4 +13,4 @@ WebRTC-Responsive-Web-App : https://drive.google.com/file/d/19ggvTMvGym0cL__SBAL
 
 All of these four WebRTC clients are independents. You can use each of them separately with the server. For exemple, if you just need the code for the React Native hybrid mobile app, you can download the node server code and the "WebRTC-React-Native-Heabrid-App" code google drive.
 
-Here we give you the code for four separate client applications that were needed for our thesis, but you can use them as you want. 
+Here we give you the code for four separate client applications that were needed for our thesis, but you can use them according to your needs. 
