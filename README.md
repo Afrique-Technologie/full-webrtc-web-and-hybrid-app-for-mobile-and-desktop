@@ -33,10 +33,28 @@ To compile the React Native client, you must first set up the React Native devel
 5 - react-native-background-job
 The React Native application has been compiled only for the Android system, but it can also be adapted for the iOS system.
 
+To compile the Electron application on Windows, install Electron on your Windows machine by following the reference below: https://www.electronjs.org/fr/docs/latest/tutorial/installation.
+Then, open the "WebRTC-Electron-Hybrid-App-For-Windows" folder in a terminal and type the following command: $ npm run start
+
+To compile the Electron client on Raspberry Pi, install Electron on Raspberry Pi using the following command:
+
+$ sudo npm install -g electron —unsafe-perm=true —allow-root
+
+Then, open the "WebRTC-Electron-Hybrid-App-For-Raspberry-Pi" folder in a terminal and type the following command:
+
+$ npm run start
 
 
+To test the application:
 
+Start the server
+Launch the web or hybrid clients
+Assign a unique number to each client (for example, between 6000 and 6999)
+Click the "connexion" button to connect the client to the server
+Make a call to a client using its assigned number.
 
 All of these four WebRTC clients are independents. You can use each of them separately with the server. For exemple, if you just need the code for the React Native hybrid mobile app, you can download the "Server.zip" file and the "WebRTC-React-Native-Heabrid-App.zip" file from google drive.
 
 Here we give you the code for the different client applications that were needed for our thesis, but you can use them according to your needs. 
+
+Thanks !
