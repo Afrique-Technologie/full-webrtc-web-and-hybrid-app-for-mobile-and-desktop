@@ -24,8 +24,7 @@ The source codes of diffrent apps have been stored on Google Drive, you can down
 Before running any of the clients, start by running the server. To run the server, unzip the Server.zip file, then open the resulting folder in a terminal and type the command: node server.js
 The server can run on Windows, Linux, or MAC.
 
-To compile the React Native client, you must first set up the React Native development environment on your machine. Then, you must install the following React Native modules that are used in the application:
-
+To compile the React Native client, you must first set up the React Native development environment on your machine. Then, you must install the following React Native modules that are used in the application:                                                                                                      
 1 - react-native-webrtc
 2 - react-native-incall-manager
 3 - react-native-easy-toast
