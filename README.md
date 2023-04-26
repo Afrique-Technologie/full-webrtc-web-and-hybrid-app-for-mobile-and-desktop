@@ -21,7 +21,8 @@ The source codes of diffrent apps have been stored on Google Drive, you can down
 
 5 - WebRTC-Electron-Hybrid-App-For-App : https://drive.google.com/file/d/16saI8GDhjfUJHDhsZrGMgkHFSxkotkiu/view?usp=share_link
 
-
+Before running any of the clients, start by running the server. To run the server, unzip the Server.zip file, then open the resulting folder in a terminal and type the command: node server.js
+The server can run on Windows, Linux, or MAC.
 
 
 
