@@ -1,5 +1,6 @@
 # full-webrtc-web-and-hybrid-app-for-mobile-and-desktop
-WebRTC web and hybrid app for mobile and desktop. The mobile hybrid app was developed with the React Native framework, and the Desktop hybrid app was developed with the Electron cross-platform framework for Windows and Raspbian OS.    
+
+This video conferencing solution based on WebRTC technology was implemented to conduct a comparative study between WebRTC solutions based on web browsers and those based on a hybrid application, on mobile and Raspberry Pi, as part of our PhD thesis "Implementation of a Video Conferencing Platform based on WebRTC Technology".    
 
 The source codes of diffrent apps have been stored on Google Drive, you can download all of them through the following links.
 
