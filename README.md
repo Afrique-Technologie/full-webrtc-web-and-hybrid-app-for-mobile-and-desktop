@@ -1,6 +1,6 @@
 # A Hybrid Approach for WebRTC Video Streaming on Resource-constrained Devices
 # University of Science and Technology of Oran - Mohamed Boudiaf (USTO-MB)
-# Laboratory of Signals and Images (LSi)
+# Laboratory of Signals and Images (LSI)
 
 This video conferencing solution based on WebRTC technology was implemented to conduct a comparative study between WebRTC solutions based on web browsers and those based on a hybrid application, on mobile and Raspberry Pi, as part of our PhD thesis "Implementation of a Video Conferencing Platform based on WebRTC Technology".    
 
